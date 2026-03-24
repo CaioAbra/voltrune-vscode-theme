@@ -1,0 +1,54 @@
+{
+  "name": "voltrune-obsidian",
+  "displayName": "Voltrune Obsidian",
+  "description": "Premium dark theme collection for VS Code featuring the Voltrune palette family, optimized for long coding sessions across JavaScript, TypeScript, PHP, HTML, CSS/SCSS, and JSON.",
+  "version": "0.0.1",
+  "publisher": "your-publisher-name",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-%F%username/voltrune-obsidian"
+  },
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "obsidian",
+    "developer",
+    "collection",
+    "vscode-theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Voltrune Obsidian",
+        "uiTheme": "vs-dark",
+        "path": "./themes/voltrune-obsidian-color-theme.json"
+      },
+      {
+        "label": "Voltrune Eclipse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/voltrune-eclipse-color-theme.json"
+      },
+      {
+        "label": "Voltrune Ember",
+        "uiTheme": "vs-dark",
+        "path": "./themes/voltrune-ember-color-theme.json"
+      },
+      {
+        "label": "Voltrune Frost",
+        "uiTheme": "vs-dark",
+        "path": "./themes/voltrune-frost-color-theme.json"
+      },
+      {
+        "label": "Voltrune Arcane",
+        "uiTheme": "vs-dark",
+        "path": "./themes/voltrune-arcane-color-theme.json"
+      }
+    ]
+  }
+}
