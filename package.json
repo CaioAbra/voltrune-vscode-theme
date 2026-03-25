@@ -48,6 +48,11 @@
         "label": "Voltrune Arcane",
         "uiTheme": "vs-dark",
         "path": "./themes/voltrune-arcane-color-theme.json"
+      },
+      {
+        "label": "Voltrune Nocturne",
+        "uiTheme": "vs-dark",
+        "path": "./themes/voltrune-nocturne-color-theme.json"
       }
     ]
   }
