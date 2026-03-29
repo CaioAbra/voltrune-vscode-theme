@@ -14,10 +14,11 @@ Voltrune e uma colecao de temas escuros premium para VS Code, com identidade ele
 - Voltrune Frost: visual frio, tecnico e limpo com azul petroleo, cinza frio e ciano suave.
 - Voltrune Arcane: personalidade mistica com roxos suaves e azuis vivos controlados.
 - Voltrune Nocturne: dark plus com base quase preta, prata suave, bronze, dourado e azul mistico controlado.
+- Voltrune Neon Rain: cyberpunk noir com chuva neon contida, cyan frio, magenta suave e amber dosado para uso prolongado.
 
 ## Features
 
-- Colecao com seis temas dark prontos para alternancia local ou publicacao.
+- Colecao com sete temas dark prontos para alternancia local ou publicacao.
 - Profundidade visual inspirada em glassmorphism simulado, sem depender de blur real.
 - Paletas suaves e equilibradas para reduzir fadiga visual.
 - Contraste otimizado para produtividade em uso prolongado.

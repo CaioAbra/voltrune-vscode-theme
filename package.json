@@ -53,6 +53,11 @@
         "label": "Voltrune Nocturne",
         "uiTheme": "vs-dark",
         "path": "./themes/voltrune-nocturne-color-theme.json"
+      },
+      {
+        "label": "Voltrune Neon Rain",
+        "uiTheme": "vs-dark",
+        "path": "./themes/voltrune-neon-rain-color-theme.json"
       }
     ]
   }
